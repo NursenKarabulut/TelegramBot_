@@ -7,3 +7,5 @@ Telegram botları, daha gelişmiş işlevsellik sağlamak için web kancaları, 
 Bir Telegram botu oluşturulduktan sonra, kullanıcılar botun kullanıcı adına komutlar veya mesajlar göndererek onunla etkileşim kurabilirler. Bot daha sonra metin, resimler veya diğer içerik türleri ile yanıt verebilir.
 
 Telegram botları, kullanım kolaylığı, güvenlik ve gizlilik özellikleri nedeniyle popülerdir. Kişisel veya ticari amaçlarla kullanılabilirler ve Telegram platformunda binlerce bot mevcuttur.
+
+Benim kodladığım bu botta amac Hava Durumu Güncellemeleri 'ni aktif bir şekilde takip edebilmek.
