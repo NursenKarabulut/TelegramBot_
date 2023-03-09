@@ -9,3 +9,18 @@ Bir Telegram botu oluşturulduktan sonra, kullanıcılar botun kullanıcı adın
 Telegram botları, kullanım kolaylığı, güvenlik ve gizlilik özellikleri nedeniyle popülerdir. Kişisel veya ticari amaçlarla kullanılabilirler ve Telegram platformunda binlerce bot mevcuttur.
 
 Benim kodladığım bu botta amac Hava Durumu Güncellemeleri 'ni aktif bir şekilde takip edebilmek.
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+
+A Telegram bot is an application programmed to interact with users in Telegram, a cloud-based instant messaging application. Telegram bots can perform various tasks such as answering frequently asked questions, providing news and weather updates, scheduling appointments and much more.
+
+To create a Telegram bot, the developer must use Telegram's Bot API and have programming skills in languages ​​such as Python, JavaScript or Java. The Bot API provides developers with tools to create bots that can send and receive messages, respond to messages, and perform other functions.
+
+Telegram bots can be integrated with other services such as webhooks, databases and APIs to provide more advanced functionality. Bot developers can also use machine learning and natural language processing to create bots that can understand and respond to natural language queries.
+
+Once a Telegram bot is created, users can interact with it by sending commands or messages on the bot's username. The bot can then respond with text, images, or other types of content.
+
+Telegram bots are popular for their ease of use, security and privacy features. They can be used for personal or commercial purposes and there are thousands of bots available on the Telegram platform.
+
+The purpose of this bot that I coded is to be able to follow the Weather Updates actively.
