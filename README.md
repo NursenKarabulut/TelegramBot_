@@ -10,7 +10,7 @@ Telegram botları, kullanım kolaylığı, güvenlik ve gizlilik özellikleri ne
 
 Benim kodladığım bu botta amac Hava Durumu Güncellemeleri 'ni aktif bir şekilde takip edebilmek.
 
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 
 A Telegram bot is an application programmed to interact with users in Telegram, a cloud-based instant messaging application. Telegram bots can perform various tasks such as answering frequently asked questions, providing news and weather updates, scheduling appointments and much more.
